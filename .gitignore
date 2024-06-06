@@ -1,1 +1,10 @@
-# Generate at https://www.toptal.com/developers/gitignore/
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+# Include lambda handler
+!lib/lambda-handler/*.js
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
