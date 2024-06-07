@@ -17,6 +17,12 @@ __Reference__:
 
 # CHANGELOG
 
+## [0.3.0]
+
+### Added
+
+* cdk.context.json for storage of context key:value pairs
+
 ## [0.2.0]
 
 ### Changed
