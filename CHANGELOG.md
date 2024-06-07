@@ -17,6 +17,13 @@ __Reference__:
 
 # CHANGELOG
 
+## [0.2.0]
+
+### Changed
+
+* Eslint config
+* App stack props to include additional information
+
 ## [0.1.0]
 
 ### Added
